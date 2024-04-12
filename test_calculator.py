@@ -1,6 +1,6 @@
 from calculator import addition
 from calculator import soustraction
-from calculator import divison
+from calculator import division
 
 def test_addition():
 
